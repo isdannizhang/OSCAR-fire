@@ -1,0 +1,21 @@
+# Python bytecode (created automatically when modules are imported)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Example / run output (keep the results/ folder)
+results/*.nc
+results/*.png
+results/*.pdf
+results/*.csv
+!results/.gitkeep
+
+# Editors and environments
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.python-version
+.env
+venv/
+ENV/
+*.egg-info/
